@@ -11,7 +11,7 @@ Poor for: complex reasoning, multi-hop questions, regulated outputs.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Any, List, Optional, Protocol
+from typing import List, Optional, Protocol
 
 
 class VectorStore(Protocol):

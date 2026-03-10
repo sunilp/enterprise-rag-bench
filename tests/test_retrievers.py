@@ -1,6 +1,5 @@
 """Tests for retrieval patterns."""
 
-import pytest
 from src.retrieval.naive_rag import NaiveRAG, RAGResponse
 
 

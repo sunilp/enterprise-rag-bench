@@ -1,6 +1,5 @@
 """Tests for guardrail modules."""
 
-import pytest
 from src.guardrails.pii_filter import PIIFilter, PIIType
 from src.guardrails.injection_defense import InjectionDefense, ThreatLevel
 

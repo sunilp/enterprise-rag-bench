@@ -11,7 +11,7 @@ Poor for: highly heterogeneous document collections with no clear hierarchy.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from typing import Any, Dict, List, Optional
+from typing import Any, Dict, List
 from uuid import uuid4
 
 from .naive_rag import RAGResponse

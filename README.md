@@ -116,6 +116,10 @@ enterprise-rag-bench/
 └── enterprise-concerns/   # Enterprise-specific patterns
 ```
 
+### Related Writing
+
+- [RAG in Production: What Breaks When You Move Past the Tutorial](https://sunilprakash.com/writing/rag-in-production/)
+
 ## License
 
 Apache 2.0
